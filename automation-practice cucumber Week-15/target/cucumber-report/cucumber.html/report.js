@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8075507300,
+  "duration": 13370660400,
   "status": "passed"
 });
 formatter.scenario({
@@ -44,7 +44,7 @@ formatter.step({
 });
 formatter.step({
   "line": 7,
-  "name": "I enter email address to create account \"RameshPatel2500@gmail.com\"",
+  "name": "I enter email address to create account \"RameshPatel3400@gmail.com\"",
   "keyword": "And "
 });
 formatter.step({
@@ -76,34 +76,34 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 81443500,
+  "duration": 236336000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1614274800,
+  "duration": 7954393100,
   "status": "passed"
 });
 formatter.match({
   "arguments": [
     {
-      "val": "RameshPatel2500@gmail.com",
+      "val": "RameshPatel3400@gmail.com",
       "offset": 41
     }
   ],
   "location": "CreateAccountSteps.iEnterEmailAddressToCreateAccount(String)"
 });
 formatter.result({
-  "duration": 108076500,
+  "duration": 143766000,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iClickOnCreateAccountButton()"
 });
 formatter.result({
-  "duration": 79428400,
+  "duration": 101344100,
   "status": "passed"
 });
 formatter.match({
@@ -128,7 +128,7 @@ formatter.match({
   "location": "CreateAccountSteps.iEnterAllPersonalInformation(String,String,String,String)"
 });
 formatter.result({
-  "duration": 2048450200,
+  "duration": 9617168700,
   "status": "passed"
 });
 formatter.match({
@@ -165,25 +165,25 @@ formatter.match({
   "location": "CreateAccountSteps.iEnterAllAddressDetails(String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 536886000,
+  "duration": 827748700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iClickOnRegisterButton()"
 });
 formatter.result({
-  "duration": 2482954500,
+  "duration": 12843466900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iShouldBeAbleToCreateMyAccountSuccessfully()"
 });
 formatter.result({
-  "duration": 30919200,
+  "duration": 50151900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 786596300,
+  "duration": 776157700,
   "status": "passed"
 });
 formatter.uri("signin.feature");
@@ -195,7 +195,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8576171900,
+  "duration": 8988705200,
   "status": "passed"
 });
 formatter.scenario({
@@ -239,25 +239,25 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 22400,
+  "duration": 30800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1881603200,
+  "duration": 7857441700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iShouldNavigateToSignInPageSuccessfully()"
 });
 formatter.result({
-  "duration": 36615000,
+  "duration": 54219000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 683741300,
+  "duration": 689684200,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -349,7 +349,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6661620400,
+  "duration": 8937244800,
   "status": "passed"
 });
 formatter.scenario({
@@ -402,14 +402,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 17300,
+  "duration": 37900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1305571100,
+  "duration": 10067117200,
   "status": "passed"
 });
 formatter.match({
@@ -426,14 +426,14 @@ formatter.match({
   "location": "SignInSteps.iEnterInUsernameFieldAndIntoPasswordField(String,String)"
 });
 formatter.result({
-  "duration": 172178700,
+  "duration": 246689000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1113777100,
+  "duration": 8712599200,
   "status": "passed"
 });
 formatter.match({
@@ -446,15 +446,15 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeErrorMessage(String)"
 });
 formatter.result({
-  "duration": 26843400,
+  "duration": 47200100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 648810800,
+  "duration": 725846700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6226004800,
+  "duration": 9600791500,
   "status": "passed"
 });
 formatter.scenario({
@@ -507,14 +507,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 36500,
+  "duration": 36000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2731228000,
+  "duration": 13424576100,
   "status": "passed"
 });
 formatter.match({
@@ -531,14 +531,14 @@ formatter.match({
   "location": "SignInSteps.iEnterInUsernameFieldAndIntoPasswordField(String,String)"
 });
 formatter.result({
-  "duration": 168792400,
+  "duration": 228631200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1105530700,
+  "duration": 5462000800,
   "status": "passed"
 });
 formatter.match({
@@ -551,15 +551,15 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeErrorMessage(String)"
 });
 formatter.result({
-  "duration": 24968100,
+  "duration": 42853300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 660061900,
+  "duration": 692302500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7355212900,
+  "duration": 5052189700,
   "status": "passed"
 });
 formatter.scenario({
@@ -612,14 +612,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 20800,
+  "duration": 33200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 4833235400,
+  "duration": 2187702700,
   "status": "passed"
 });
 formatter.match({
@@ -636,14 +636,14 @@ formatter.match({
   "location": "SignInSteps.iEnterInUsernameFieldAndIntoPasswordField(String,String)"
 });
 formatter.result({
-  "duration": 168838600,
+  "duration": 170324300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1851120400,
+  "duration": 2377511500,
   "status": "passed"
 });
 formatter.match({
@@ -656,15 +656,15 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeErrorMessage(String)"
 });
 formatter.result({
-  "duration": 31383200,
+  "duration": 42254100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 679095000,
+  "duration": 726266000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5654736800,
+  "duration": 7039828400,
   "status": "passed"
 });
 formatter.scenario({
@@ -719,14 +719,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 27900,
+  "duration": 28200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1526804400,
+  "duration": 6907990100,
   "status": "passed"
 });
 formatter.match({
@@ -739,7 +739,7 @@ formatter.match({
   "location": "SignInSteps.iInputUsernameInUsernameField(String)"
 });
 formatter.result({
-  "duration": 88244100,
+  "duration": 126560700,
   "status": "passed"
 });
 formatter.match({
@@ -752,29 +752,29 @@ formatter.match({
   "location": "SignInSteps.iInputPasswordInPasswordField(String)"
 });
 formatter.result({
-  "duration": 85067300,
+  "duration": 112572700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 21242415700,
+  "duration": 28182793600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iShouldBeAbleToSeeSignOutLinkIsVisible()"
 });
 formatter.result({
-  "duration": 49711900,
+  "duration": 49563600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 676288800,
+  "duration": 727094500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6606913300,
+  "duration": 5527540900,
   "status": "passed"
 });
 formatter.scenario({
@@ -830,14 +830,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 22000,
+  "duration": 31100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2711030100,
+  "duration": 1692003300,
   "status": "passed"
 });
 formatter.match({
@@ -850,7 +850,7 @@ formatter.match({
   "location": "SignInSteps.iInputUsernameInUsernameField(String)"
 });
 formatter.result({
-  "duration": 79518200,
+  "duration": 95252800,
   "status": "passed"
 });
 formatter.match({
@@ -863,32 +863,32 @@ formatter.match({
   "location": "SignInSteps.iInputPasswordInPasswordField(String)"
 });
 formatter.result({
-  "duration": 77840900,
+  "duration": 85485000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 23220973800,
+  "duration": 23660393900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignOutLink()"
 });
 formatter.result({
-  "duration": 35472473900,
+  "duration": 23736288400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iShouldBeLogOutSuccessfully()"
 });
 formatter.result({
-  "duration": 53774000,
+  "duration": 93718600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 685038100,
+  "duration": 774295200,
   "status": "passed"
 });
 formatter.uri("womenCategory.feature");
@@ -900,7 +900,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 7850805900,
+  "duration": 5520192000,
   "status": "passed"
 });
 formatter.scenario({
@@ -944,25 +944,25 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 43600,
+  "duration": 56500,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 5420642600,
+  "duration": 1900093700,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iShouldNavigateToWomenCategoryPageSuccessfully()"
 });
 formatter.result({
-  "duration": 34328200,
+  "duration": 35508700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 665734200,
+  "duration": 682605700,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1088,7 +1088,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 8831534100,
+  "duration": 5371318200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1170,14 +1170,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 36900,
+  "duration": 41800,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 2456452800,
+  "duration": 2318659600,
   "status": "passed"
 });
 formatter.match({
@@ -1190,7 +1190,7 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 1896100800,
+  "duration": 2018373000,
   "status": "passed"
 });
 formatter.match({
@@ -1203,7 +1203,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 65103700,
+  "duration": 130665500,
   "status": "passed"
 });
 formatter.match({
@@ -1216,7 +1216,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSizeFromDropdown(String)"
 });
 formatter.result({
-  "duration": 87757500,
+  "duration": 118390200,
   "status": "passed"
 });
 formatter.match({
@@ -1229,36 +1229,36 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnColour(String)"
 });
 formatter.result({
-  "duration": 70895200,
+  "duration": 103663100,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "duration": 76897400,
+  "duration": 116915900,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.productAddedToCartSuccessfully()"
 });
 formatter.result({
-  "duration": 36444100,
+  "duration": 48770000,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iCloseThePopUp()"
 });
 formatter.result({
-  "duration": 921535100,
+  "duration": 660092100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 660396600,
+  "duration": 747166800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8239022500,
+  "duration": 4879570100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1340,14 +1340,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 24900,
+  "duration": 30400,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 2299781200,
+  "duration": 7692792300,
   "status": "passed"
 });
 formatter.match({
@@ -1360,7 +1360,7 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 2183434100,
+  "duration": 9906334200,
   "status": "passed"
 });
 formatter.match({
@@ -1373,7 +1373,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 54483500,
+  "duration": 97579300,
   "status": "passed"
 });
 formatter.match({
@@ -1386,7 +1386,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSizeFromDropdown(String)"
 });
 formatter.result({
-  "duration": 71971000,
+  "duration": 113431000,
   "status": "passed"
 });
 formatter.match({
@@ -1399,36 +1399,36 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnColour(String)"
 });
 formatter.result({
-  "duration": 71735300,
+  "duration": 102203000,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "duration": 63028200,
+  "duration": 88143800,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.productAddedToCartSuccessfully()"
 });
 formatter.result({
-  "duration": 28736600,
+  "duration": 44413300,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iCloseThePopUp()"
 });
 formatter.result({
-  "duration": 778058100,
+  "duration": 4691058200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 671414400,
+  "duration": 765765200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 10265664300,
+  "duration": 7850510600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1510,14 +1510,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 16700,
+  "duration": 23500,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 2544047600,
+  "duration": 7243612300,
   "status": "passed"
 });
 formatter.match({
@@ -1530,7 +1530,7 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 1825618600,
+  "duration": 2250947800,
   "status": "passed"
 });
 formatter.match({
@@ -1543,7 +1543,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 55132800,
+  "duration": 101327900,
   "status": "passed"
 });
 formatter.match({
@@ -1556,7 +1556,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSizeFromDropdown(String)"
 });
 formatter.result({
-  "duration": 38670800,
+  "duration": 72847100,
   "status": "passed"
 });
 formatter.match({
@@ -1569,36 +1569,36 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnColour(String)"
 });
 formatter.result({
-  "duration": 61631800,
+  "duration": 98269800,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "duration": 63575200,
+  "duration": 138257100,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.productAddedToCartSuccessfully()"
 });
 formatter.result({
-  "duration": 21784900,
+  "duration": 41790100,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iCloseThePopUp()"
 });
 formatter.result({
-  "duration": 1356275200,
+  "duration": 1418141100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 673537300,
+  "duration": 717204800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7766444500,
+  "duration": 11610962000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1680,14 +1680,14 @@ formatter.match({
   "location": "SignInSteps.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 40900,
+  "duration": 38100,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 4060809500,
+  "duration": 2587726700,
   "status": "passed"
 });
 formatter.match({
@@ -1700,7 +1700,7 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 4048410300,
+  "duration": 7327527100,
   "status": "passed"
 });
 formatter.match({
@@ -1713,7 +1713,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 85466400,
+  "duration": 97111000,
   "status": "passed"
 });
 formatter.match({
@@ -1726,7 +1726,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSizeFromDropdown(String)"
 });
 formatter.result({
-  "duration": 94686900,
+  "duration": 136521300,
   "status": "passed"
 });
 formatter.match({
@@ -1739,32 +1739,32 @@ formatter.match({
   "location": "WomenCategorySteps.iClickOnColour(String)"
 });
 formatter.result({
-  "duration": 87468900,
+  "duration": 111705300,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "duration": 124328100,
+  "duration": 114694900,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.productAddedToCartSuccessfully()"
 });
 formatter.result({
-  "duration": 34214900,
+  "duration": 39646800,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iCloseThePopUp()"
 });
 formatter.result({
-  "duration": 2485315200,
+  "duration": 4554383500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 660625700,
+  "duration": 766373700,
   "status": "passed"
 });
 });
